@@ -1,8 +1,11 @@
 # Hi there, I'm Sinchana! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:D946EF&height=280&section=header&text=Sinchana%20K%20J&fontSize=70&fontAlignY=35&desc=Computer%20Science%20(AI%20and%20ML)%20Undergraduate&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="./header_banner.png" width="100%" alt="Header Banner" />
 </p>
+
+<h1 align="center">Sinchana K J</h1>
+<p align="center"><b>Computer Science (AI and ML) Undergraduate</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39d353&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Data+Analytics+%26+BI;CS+(AI+%26+ML)+Undergrad" alt="Typing Text Banner" />
