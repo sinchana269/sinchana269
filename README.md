@@ -86,12 +86,17 @@ Hello! I'm **Sinchana K J**, a Computer Science (AI & ML) undergraduate at **Vid
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinchana269&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchana269&layout=compact&theme=radical" alt="Top Languages" height="195px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sinchana269&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="195px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sinchana269&layout=compact&theme=radical" alt="Top Languages" height="195px" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sinchana269&theme=radical" alt="Streak Stats" />
+</p>
+
+#### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinchana269&theme=radical" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
