@@ -1,7 +1,7 @@
 # Hi there, I'm Sinchana! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,25&height=280&section=header&text=Sinchana%20K%20J&fontSize=70&fontAlignY=35&desc=Computer%20Science%20(AI%20%26%20ML)%20Undergraduate&descAlignY=60&descAlign=50&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:D946EF&height=280&section=header&text=Sinchana%20K%20J&fontSize=70&fontAlignY=35&desc=Computer%20Science%20(AI%20and%20ML)%20Undergraduate&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
