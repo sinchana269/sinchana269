@@ -94,11 +94,6 @@ Hello! I'm **Sinchana K J**, a Computer Science (AI & ML) undergraduate at **Vid
   <img src="https://streak-stats.demolab.com/?user=sinchana269&theme=radical" alt="Streak Stats" />
 </p>
 
-#### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinchana269&theme=radical" width="100%" alt="Contribution Graph" />
-</p>
-
 ---
 
 ### 🐍 GitHub Contribution Snake Animation
