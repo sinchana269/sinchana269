@@ -91,7 +91,7 @@ Hello! I'm **Sinchana K J**, a Computer Science (AI & ML) undergraduate at **Vid
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinchana269&theme=radical" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sinchana269&theme=radical" alt="Streak Stats" />
 </p>
 
 #### 📈 Contribution Activity
